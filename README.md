@@ -14,9 +14,9 @@ Hello there! I'm Emine, a passionate learner currently honing my skills in web d
 - **Node.js/Express:** Competent in building scalable server-side applications.
 - **Angular/ReactJS:** Developing dynamic and feature-rich user interfaces with these popular frameworks.
 - **MongoDB:** Proficient in working with MongoDB for NoSQL database solutions.
-- MySQL: Experienced in using MySQL for relational database management.
-- Agile: Knowledgeable in Agile methodologies for efficient project management.
-- DevOps: Understanding of DevOps principles to streamline development and operations.
+- **MySQL:** Experienced in using MySQL for relational database management.
+- **Agile Essentials with Scrum:** Knowledgeable in Agile methodologies and Scrum practices for efficient project management.
+- **DevOps:** Understanding of DevOps principles to streamline development and operations.
 
 ## Learning Path at SoftUni
 
@@ -25,9 +25,9 @@ Hello there! I'm Emine, a passionate learner currently honing my skills in web d
 - **Full-Stack Development with Node.js and Express:** Delved into server-side development using Node.js and Express.
 - **Front-End Frameworks (Angular, ReactJS):** Explored the world of frontend frameworks for building modern web applications.
 - **Working with MongoDB:** Acquired skills in working with MongoDB for database management.
-- Working with MySQL: Gained experience in relational database management using MySQL.
-- Agile Methodologies: Learned and applied Agile practices for effective project management.
-- DevOps Principles: Developed an understanding of DevOps to improve collaboration and productivity in development.
+- **Working with MySQL:** Gained experience in relational database management using MySQL.
+- **Agile Essentials with Scrum:** Learned and applied Agile practices and Scrum methodology for effective project management.
+- **DevOps Principles:** Developed an understanding of DevOps to improve collaboration and productivity in development.
 
 ## Projects Showcase
 
