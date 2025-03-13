@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Emine, a passionate learner currently honing my skills in web development through SoftUni. I have a keen interest in mastering various technologies and building exciting projects.
+Hello there! I'm Emine,a passionate developer honing my skills in web development. I have a keen interest in mastering various technologies and building exciting projects.
 
 ## Key Skills
 
