@@ -32,7 +32,7 @@ Hello there! I'm Emine,a passionate developer honing my skills in web developmen
 ## Projects Showcase
 
 - E-commerce pizza ordering site: https://github.com/EmineSelimovska/angular-project-express-pizza
-- Msell Real Estate site: https://github.com/EmineSelimovska/ReactJS-Project
+- Real Estate site: https://github.com/EmineSelimovska/ReactJS-Project
 
 Feel free to explore my repositories to see the projects I've been working on during my learning journey. If you have any feedback or collaboration opportunities, I'd love to connect!
 
