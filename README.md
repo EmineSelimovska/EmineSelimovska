@@ -38,5 +38,5 @@ Feel free to explore my repositories to see the projects I've been working on du
 
 ## Connect with Me
 
-- LinkedIn: www.linkedin.com/in/emine-selimovska
+- LinkedIn: https://www.linkedin.com/in/emine-selimovska
 - Email: emine.selimovska@outlook.com
